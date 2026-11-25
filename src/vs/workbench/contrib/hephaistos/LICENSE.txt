@@ -1,0 +1,20 @@
+HEPHAISTOS MODULE LICENSING NOTICE
+
+Original contributions in this directory and its subdirectories controlled
+by Michel Chevalier are proprietary. Prior written authorization is required
+for use, including building, execution, modification and redistribution,
+subject to mandatory legal rights and independently valid licenses.
+
+The governing terms are in LICENSE-HEPHAISTOS.txt at the repository root.
+The component boundaries and third-party exceptions are in LICENSING.md.
+
+This notice covers original contributions in the native home/chat/provider,
+ACP, SWAT workspace, orchestration, Search and PostDev modules, including
+original media and original portions of bundles. It does not claim ownership
+of copied Microsoft Code-OSS, React, React Flow or other third-party material.
+Their respective licenses and embedded notices remain applicable.
+
+No earlier valid license grant is revoked. Hosting platform viewing and
+on-platform fork rights remain effective. Contact Michel Chevalier through
+https://github.com/lascard-m for written authorization and any separately
+negotiated commercial or royalty agreement.

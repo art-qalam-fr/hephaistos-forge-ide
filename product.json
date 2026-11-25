@@ -1,0 +1,222 @@
+{
+	"nameShort": "Hepshaistos",
+	"nameLong": "Hepshaistos IDE",
+	"applicationName": "hepshaistos-ide",
+	"dataFolderName": ".hepshaistos-ide",
+	"sharedDataFolderName": ".vscode-oss-shared",
+	"win32MutexName": "hepshaistoside",
+	"licenseName": "Mixed: Code-OSS MIT / Hephaistos proprietary",
+	"licenseUrl": "https://github.com/art-qalam-fr/efaistos-forge-ide/blob/main/LICENSING.md",
+	"serverLicenseUrl": "https://github.com/microsoft/vscode/blob/main/LICENSE.txt",
+	"serverGreeting": [],
+	"serverLicense": [],
+	"serverLicensePrompt": "",
+	"serverApplicationName": "hepshaistos-server",
+	"serverDataFolderName": ".hepshaistos-ide-server",
+	"tunnelApplicationName": "code-tunnel-oss",
+	"win32DirName": "Hepshaistos",
+	"win32NameVersion": "Hepshaistos",
+	"win32RegValueName": "HepshaistosIDE",
+	"win32x64AppId": "{{E3588A71-7F60-4621-8C22-6349B89504D2}}",
+	"win32arm64AppId": "{{5BD03052-D114-4D7A-A2BF-372D498820A7}}",
+	"win32x64UserAppId": "{{CC6B787D-37A0-49E8-AE24-8559A032BE0C}",
+	"win32arm64UserAppId": "{{3AEBF0C8-F733-4AD4-BADE-FDB816D53D7B}",
+	"win32AppUserModelId": "Hepshaistos.IDE",
+	"win32ShellNameShort": "Hepshaistos",
+	"win32TunnelServiceMutex": "vscodeoss-tunnelservice",
+	"win32TunnelMutex": "vscodeoss-tunnel",
+	"darwinBundleIdentifier": "fr.artqalam.hepshaistos-ide",
+	"darwinProfileUUID": "47827DD9-4734-49A0-AF80-7E19B11495CC",
+	"darwinProfilePayloadUUID": "CF808BE7-53F3-46C6-A7E2-7EDB98A5E959",
+	"linuxDesktopName": "com.visualstudio.CodeOSS",
+	"linuxIconName": "hepshaistos-ide",
+	"licenseFileName": "LICENSE.txt",
+	"reportIssueUrl": "https://github.com/art-qalam-fr/efaistos-forge-ide/issues",
+	"nodejsArtifactFeed": "",
+	"electronArtifactFeed": "",
+	"urlProtocol": "hepshaistos",
+	"webviewContentExternalBaseUrlTemplate": "https://{{uuid}}.vscode-cdn.net/insider/ef65ac1ba57f57f2a3961bfe94aa20481caca4c6/out/vs/workbench/contrib/webview/browser/pre/",
+	"builtInExtensions": [],
+	"trustedExtensionAuthAccess": {
+		"github": [
+			"hepshaistos.acp-agent"
+		],
+		"github-enterprise": [
+			"hepshaistos.acp-agent"
+		],
+		"microsoft": [
+			"vscode.github-authentication"
+		]
+	},
+	"onboardingKeymaps": [
+		{
+			"id": "vscode",
+			"label": "VS Code",
+			"description": "Default keyboard mapping"
+		},
+		{
+			"id": "sublime",
+			"label": "Sublime Text",
+			"extensionId": "ms-vscode.sublime-keybindings",
+			"description": "Keyboard mapping from Sublime Text"
+		},
+		{
+			"id": "intellij",
+			"label": "IntelliJ / JetBrains",
+			"extensionId": "k--kato.intellij-idea-keybindings",
+			"description": "Keyboard mapping from IntelliJ IDEA"
+		},
+		{
+			"id": "vim",
+			"label": "Vim",
+			"extensionId": "vscodevim.vim",
+			"description": "Vim modal editing"
+		},
+		{
+			"id": "eclipse",
+			"label": "Eclipse",
+			"extensionId": "alphabotsec.vscode-eclipse-keybindings",
+			"description": "Keyboard mapping from Eclipse"
+		},
+		{
+			"id": "notepadpp",
+			"label": "Notepad++",
+			"extensionId": "ms-vscode.notepadplusplus-keybindings",
+			"description": "Keyboard mapping from Notepad++"
+		}
+	],
+	"onboardingThemes": [
+		{
+			"id": "dark-2026",
+			"label": "Dark 2026",
+			"themeId": "Dark 2026",
+			"type": "dark"
+		},
+		{
+			"id": "hc-dark",
+			"label": "Dark High Contrast",
+			"themeId": "Default High Contrast",
+			"type": "hcDark"
+		},
+		{
+			"id": "solarized-dark",
+			"label": "Solarized Dark",
+			"themeId": "Solarized Dark",
+			"type": "dark"
+		},
+		{
+			"id": "light-2026",
+			"label": "Light 2026",
+			"themeId": "Light 2026",
+			"type": "light"
+		},
+		{
+			"id": "hc-light",
+			"label": "Light High Contrast",
+			"themeId": "Default High Contrast Light",
+			"type": "hcLight"
+		},
+		{
+			"id": "solarized-light",
+			"label": "Solarized Light",
+			"themeId": "Solarized Light",
+			"type": "light"
+		}
+	],
+	"builtInExtensionsEnabledWithAutoUpdates": [
+		"hepshaistos.acp-agent"
+	],
+	"sessionsWindowAllowedExtensions": [],
+	"voiceWsUrl": "",
+	"win32VersionedUpdate": false,
+	"win32AppId": "{{A0BA54D9-28E8-414F-8F4C-28E72CE4D5DB}}",
+	"documentationUrl": "https://github.com/art-qalam-fr/hepshaistos-ide",
+	"releaseNotesUrl": "https://github.com/art-qalam-fr/hepshaistos-ide/releases",
+	"updateUrl": "",
+	"extensionsGallery": {
+		"serviceUrl": "https://open-vsx.org/vscode/gallery",
+		"itemUrl": "https://open-vsx.org/vscode/item",
+		"resourceUrlTemplate": "https://open-vsx.org/vscode/asset/{publisher}/{name}/{version}/{targetPlatform}/Microsoft.VisualStudio.Services.Icons.Default",
+		"controlUrl": "",
+		"nlsUrl": ""
+	},
+	"linkProtectionTrustedDomains": [
+		"https://open-vsx.org",
+		"https://github.com/art-qalam-fr",
+		"https://art-qalam.fr"
+	],
+	"agentsTelemetryAppName": "hepshaistos",
+	"defaultChatAgent": {
+		"extensionId": "hepshaistos.acp-agent",
+		"chatExtensionId": "hepshaistos.acp-agent",
+		"chatExtensionOutputId": "hepshaistos.acp-agent",
+		"chatExtensionOutputExtensionStateCommand": "hepshaistos.hepshaistos-agent.debug.extensionState",
+		"documentationUrl": "https://aka.ms/hepshaistos-hepshaistos-agent-overview",
+		"termsStatementUrl": "https://aka.ms/hepshaistos-hepshaistos-agent-terms-statement",
+		"privacyStatementUrl": "https://aka.ms/hepshaistos-hepshaistos-agent-privacy-statement",
+		"skusDocumentationUrl": "https://aka.ms/hepshaistos-hepshaistos-agent-plans",
+		"optimizeUsageDocumentationUrl": "https://github.com/art-qalam-fr/hepshaistos-ide",
+		"publicCodeMatchesUrl": "https://aka.ms/hepshaistos-hepshaistos-agent-match-public-code",
+		"managePlanUrl": "https://aka.ms/hepshaistos-hepshaistos-agent-manage-plan",
+		"upgradePlanUrl": "https://aka.ms/hepshaistos-hepshaistos-agent-upgrade-plan",
+		"signUpUrl": "https://aka.ms/hepshaistos-sign-up",
+		"provider": {
+			"default": {
+				"id": "hepshaistos",
+				"name": "Hepshaistos"
+			},
+			"enterprise": {
+				"id": "hepshaistos",
+				"name": "Hepshaistos"
+			},
+			"google": {
+				"id": "hepshaistos",
+				"name": "Hepshaistos"
+			},
+			"apple": {
+				"id": "hepshaistos",
+				"name": "Hepshaistos"
+			},
+			"microsoft": {
+				"id": "hepshaistos",
+				"name": "Hepshaistos"
+			}
+		},
+		"providerExtensionId": "hepshaistos.acp-agent",
+		"providerUriSetting": "hepshaistos-enterprise.uri",
+		"providerScopes": [
+			[
+				"read:user",
+				"user:email",
+				"repo",
+				"workflow"
+			],
+			[
+				"user:email"
+			],
+			[
+				"read:user"
+			]
+		],
+		"entitlementUrl": "https://api.hepshaistos.com/hepshaistos-agent_internal/user",
+		"entitlementSignupLimitedUrl": "https://api.hepshaistos.com/hepshaistos-agent_internal/subscribe_limited_user",
+		"chatQuotaExceededContext": "hepshaistos.hepshaistos-agent.chat.quotaExceeded",
+		"completionsQuotaExceededContext": "hepshaistos.hepshaistos-agent.completions.quotaExceeded",
+		"walkthroughCommand": "hepshaistos.hepshaistos-agent.open.walkthrough",
+		"completionsMenuCommand": "hepshaistos.hepshaistos-agent.toggleStatusMenu",
+		"chatRefreshTokenCommand": "hepshaistos.hepshaistos-agent.refreshToken",
+		"generateCommitMessageCommand": "hepshaistos.hepshaistos-agent.git.generateCommitMessage",
+		"resolveMergeConflictsCommand": "hepshaistos.hepshaistos-agent.git.resolveMergeConflicts",
+		"completionsAdvancedSetting": "hepshaistos.hepshaistos-agent.advanced",
+		"completionsEnablementSetting": "hepshaistos.hepshaistos-agent.enable",
+		"nextEditSuggestionsSetting": "hepshaistos.hepshaistos-agent.nextEditSuggestions.enabled",
+		"tokenEntitlementUrl": "https://api.hepshaistos.com/hepshaistos-agent_internal/v2/token",
+		"mcpRegistryDataUrl": "https://api.hepshaistos.com/hepshaistos-agent/mcp_registry",
+		"mcpConnectorsUrl": "https://api.hepshaistos.com/hepshaistos-agent-connectors/api/v1",
+		"managedSettingsUrl": "https://api.hepshaistos.com/hepshaistos-agent_internal/managed_settings"
+	},
+	"configurationDefaults": {
+		"chat.disableAIFeatures": true,
+		"window.restoreWindows": "none"
+	}
+}
