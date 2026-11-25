@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="resources/hephaistos-kit_banderole.jpg" alt="Hephaistos2-Kit" width="100%">
+</p>
+
 # Hephaistos Forge IDE
 
 > Fork of Microsoft **Code-OSS** with the **Hephaistos2-Kit** multi-agent
