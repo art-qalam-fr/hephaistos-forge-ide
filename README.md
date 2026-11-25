@@ -48,7 +48,11 @@ first-class citizen of the editor itself:
 
 ## Status
 
-Active development. This public source snapshot is derived from Code-OSS
+**Forge v0.1.0-alpha.1 — source preview.** The upstream Code-OSS compatibility
+version remains `1.147.0` in `package.json`; Forge releases use their own Git tags.
+No packaged binaries or full build validation are provided with this preview.
+
+This public source snapshot is derived from Code-OSS
 and includes the Hephaistos workbench integration. It is not a packaged release
 or a claim of a self-contained installation: the agent, search and orchestration
 features require the corresponding Hephaistos2-Kit local services.
